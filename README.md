@@ -1,1 +1,5 @@
 # DS160_Final_Project_EES_RJO
+
+# Author: Richard Osborn & Elijah Sartin
+
+### Banks around the world make money by lending out their customers’ money. Term deposit accounts contribute significantly to the pool of money that they can lend out and therefore are crucial to the success of a bank. Telemarketing has become one of the major avenues that banks use to get customers signed up for term deposit accounts. Figuring out what leads to a successful term deposit telemarketing campaign helps the banks to continue making money. These key factors can be examined to determine the success of future telemarketing campaigns and give insight into what kinds of groups should be targeted in the future. These various factors include age, occupation, marital status, education level, and certain economic indicators, among other things. Through an exploratory data analysis and the use of machine learning methods, we were able to come to various conclusions about the contributing factors to success in bank telemarketing campaigns. 
